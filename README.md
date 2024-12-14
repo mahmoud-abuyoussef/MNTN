@@ -21,6 +21,6 @@
 - ### Deployment
   - ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)
 
-**Design From Figma Community**
+**Design by Figma Community**
 
 ![MNTN Design](https://github.com/mahmoud-abuyoussef/MNTN/blob/main/design/MNTN.png)
