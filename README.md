@@ -23,4 +23,4 @@
 
 **Design From Figma Community**
 
-![MNTN Design](https://mahmoud-abuyoussef.github.io/MNTN/)
+![MNTN Design](https://github.com/mahmoud-abuyoussef/MNTN/blob/main/design/MNTN.png)
